@@ -8,13 +8,17 @@ In order to get any license under these terms, you must agree to their rules.  T
 
 The licensor grants you a copyright license for the software, to do everything you might do with the software that would infringe the licensor's copyright in it, for any permitted purpose.  However, you may not distribute the software, or make changes or new works based on the software, unless these terms grant you an additional license to do so.
 
-## DL: Distribution License
+{{#DL}}
+## Distribution License
 
 The licensor grants you an additional copyright license to distribute copies of the software.  You must ensure that anyone who gets a copy of any part of the software from you also gets the text of these terms or a link to their text on <https://polyformproject.org>.
+{{/DL}}
 
+{{#CL}}
 ## CL: Changes and New Works License
 
 The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+{{/CL}}
 
 ## Patent License
 
@@ -32,17 +36,23 @@ Use by any charitable organization, educational institution, public research org
 
 You may have other "fair use" rights for the software under the law.  These terms do not limit them.
 
+{{#SB}}
 ## SB: Small Business
 
 It is a permitted purpose to use the software for the benefit of your company if it has less than 100 total employees and individual independent contractors, and less than 1,000,000 USD total revenue in the prior tax year.
+{{/SB}}
 
+{{#FT}}
 ## FT: Free Trial
 
 It is a permitted purpose to evaluate whether the software suits a particular application, on behalf of you or your company, for less than 32 consecutive calendar days.
+{{/FT}}
 
+{{#IB}}
 ## IB: Internal Business Use
 
 It is a permitted purpose to use the software for the internal business operations of you and your company.
+{{/IB}}
 
 ## No Other Rights
 
